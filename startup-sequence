@@ -1,0 +1,13 @@
+; RSi Demo screen - Cresta - March 2015
+
+echo ""
+echo "Red Sector Inc. 2015"
+echo ""
+echo "Loading demo      -      Please wait..."
+
+Cresta.exe
+
+echo ""
+echo "Goodbye, see you soon and take care"
+echo ""
+
